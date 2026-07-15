@@ -16,7 +16,7 @@
             "target": 3
           },
           "submitted": {
-            "total": 11,
+            "total": 12,
             "target": 2,
             "benefits": 1
           },
@@ -67,6 +67,11 @@
               "gpa": 7.7,
               "type": "general",
               "addedAt": 1784105123170
+            },
+            {
+              "gpa": 7.8,
+              "type": "general",
+              "addedAt": 1784105134861
             }
           ]
         },
