@@ -16,8 +16,8 @@
             "target": 3
           },
           "submitted": {
-            "total": 13,
-            "target": 3,
+            "total": 14,
+            "target": 4,
             "benefits": 1
           },
           "applicants": [
@@ -77,6 +77,11 @@
               "gpa": 9,
               "type": "target",
               "addedAt": 1784105175547
+            },
+            {
+              "gpa": 9,
+              "type": "target",
+              "addedAt": 1784105180922
             }
           ]
         },
