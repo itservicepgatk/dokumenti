@@ -1,7 +1,7 @@
 {
   "lastUpdated": {
     "date": "15 июля 2026 г.",
-    "time": "11:08"
+    "time": "11:11"
   },
   "tables": [
     {
@@ -83,16 +83,11 @@
             "target": 3
           },
           "submitted": {
-            "total": 1,
+            "total": 0,
             "target": 0,
             "benefits": 0
           },
-          "applicants": [
-            {
-              "gpa": 4.5,
-              "type": "general"
-            }
-          ]
+          "applicants": []
         },
         {
           "specialty": "5-04-0812-01 Техническое обслуживание и ремонт сельскохозяйственной техники",
