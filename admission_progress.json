@@ -1,0 +1,148 @@
+{
+  "lastUpdated": {
+    "date": "15 июля 2026 г.",
+    "time": "11:08"
+  },
+  "tables": [
+    {
+      "educationForm": "Форма получения образования: дневная. Прием осуществляется на основе общего базового образования",
+      "admissionBase": "9 классов",
+      "rows": [
+        {
+          "specialty": "5-04-0732-01 Строительство зданий и сооружений",
+          "qualification": "Техник-строитель",
+          "kcp": {
+            "total": 28,
+            "target": 3
+          },
+          "submitted": {
+            "total": 6,
+            "target": 2,
+            "benefits": 1
+          },
+          "applicants": [
+            {
+              "gpa": 9.5,
+              "type": "general"
+            },
+            {
+              "gpa": 9.2,
+              "type": "general"
+            },
+            {
+              "gpa": 8.5,
+              "type": "target"
+            },
+            {
+              "gpa": 5.5,
+              "type": "general"
+            },
+            {
+              "gpa": 5.5,
+              "type": "target"
+            },
+            {
+              "gpa": 5.5,
+              "type": "benefits"
+            }
+          ]
+        },
+        {
+          "specialty": "5-04-0715-20 Техническая эксплуатация подъёмно-транспортных, дорожно-строительных машин и оборудования",
+          "qualification": "Техник-механик",
+          "kcp": {
+            "total": 28,
+            "target": 1
+          },
+          "submitted": {
+            "total": 0,
+            "target": 0,
+            "benefits": 0
+          },
+          "applicants": []
+        },
+        {
+          "specialty": "5-04-0732-08 Строительство и эксплуатация автомобильных дорог",
+          "qualification": "Техник-строитель",
+          "kcp": {
+            "total": 28,
+            "target": 0
+          },
+          "submitted": {
+            "total": 0,
+            "target": 0,
+            "benefits": 0
+          },
+          "applicants": []
+        },
+        {
+          "specialty": "5-04-0811-03 Мелиорация земель",
+          "qualification": "Гидротехник",
+          "kcp": {
+            "total": 56,
+            "target": 3
+          },
+          "submitted": {
+            "total": 1,
+            "target": 0,
+            "benefits": 0
+          },
+          "applicants": [
+            {
+              "gpa": 4.5,
+              "type": "general"
+            }
+          ]
+        },
+        {
+          "specialty": "5-04-0812-01 Техническое обслуживание и ремонт сельскохозяйственной техники",
+          "qualification": "Техник-механик",
+          "kcp": {
+            "total": 56,
+            "target": 15
+          },
+          "submitted": {
+            "total": 0,
+            "target": 0,
+            "benefits": 0
+          },
+          "applicants": []
+        }
+      ]
+    },
+    {
+      "educationForm": "Форма получения образования: дневная. Прием осуществляется на основе общего среднего образования",
+      "admissionBase": "11 классов",
+      "rows": [
+        {
+          "specialty": "5-04-0732-01 Строительство зданий и сооружений",
+          "qualification": "Техник-строитель",
+          "kcp": {
+            "total": 25,
+            "target": 0
+          },
+          "submitted": {
+            "total": 0,
+            "target": 0,
+            "benefits": 0
+          },
+          "applicants": []
+        },
+        {
+          "specialty": "5-04-0812-01 Техническое обслуживание и ремонт сельскохозяйственной техники",
+          "qualification": "Техник-механик",
+          "kcp": {
+            "total": 25,
+            "target": 10
+          },
+          "submitted": {
+            "total": 0,
+            "target": 0,
+            "benefits": 0
+          },
+          "applicants": []
+        }
+      ]
+    }
+  ]
+}
