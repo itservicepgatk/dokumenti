@@ -1,7 +1,7 @@
 {
   "lastUpdated": {
     "date": "15 июля 2026 г.",
-    "time": "11:45"
+    "time": "11:46"
   },
   "tables": [
     {
@@ -16,8 +16,8 @@
             "target": 3
           },
           "submitted": {
-            "total": 12,
-            "target": 2,
+            "total": 13,
+            "target": 3,
             "benefits": 1
           },
           "applicants": [
@@ -72,6 +72,11 @@
               "gpa": 7.8,
               "type": "general",
               "addedAt": 1784105134861
+            },
+            {
+              "gpa": 9,
+              "type": "target",
+              "addedAt": 1784105175547
             }
           ]
         },
