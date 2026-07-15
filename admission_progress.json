@@ -1,7 +1,7 @@
 {
   "lastUpdated": {
     "date": "15 июля 2026 г.",
-    "time": "11:49"
+    "time": "17:39"
   },
   "tables": [
     {
@@ -16,109 +16,11 @@
             "target": 3
           },
           "submitted": {
-            "total": 21,
-            "target": 10,
-            "benefits": 1
+            "total": 0,
+            "target": 0,
+            "benefits": 0
           },
-          "applicants": [
-            {
-              "gpa": 9.5,
-              "type": "general"
-            },
-            {
-              "gpa": 9.2,
-              "type": "general"
-            },
-            {
-              "gpa": 8.5,
-              "type": "target"
-            },
-            {
-              "gpa": 5.5,
-              "type": "general"
-            },
-            {
-              "gpa": 5.5,
-              "type": "target"
-            },
-            {
-              "gpa": 5.5,
-              "type": "benefits"
-            },
-            {
-              "gpa": 9.4,
-              "type": "general"
-            },
-            {
-              "gpa": 4.4,
-              "type": "general"
-            },
-            {
-              "gpa": 6.6,
-              "type": "general",
-              "addedAt": 1784105102311
-            },
-            {
-              "gpa": 4.4,
-              "type": "general",
-              "addedAt": 1784105111996
-            },
-            {
-              "gpa": 7.7,
-              "type": "general",
-              "addedAt": 1784105123170
-            },
-            {
-              "gpa": 7.8,
-              "type": "general",
-              "addedAt": 1784105134861
-            },
-            {
-              "gpa": 9,
-              "type": "target",
-              "addedAt": 1784105175547
-            },
-            {
-              "gpa": 9,
-              "type": "target",
-              "addedAt": 1784105180922
-            },
-            {
-              "gpa": 8.1,
-              "type": "target",
-              "addedAt": 1784105203688
-            },
-            {
-              "gpa": 8.9,
-              "type": "target",
-              "addedAt": 1784105208413
-            },
-            {
-              "gpa": 8.8,
-              "type": "target",
-              "addedAt": 1784105213207
-            },
-            {
-              "gpa": 8.5,
-              "type": "target",
-              "addedAt": 1784105220953
-            },
-            {
-              "gpa": 5.5,
-              "type": "general",
-              "addedAt": 1784105267429
-            },
-            {
-              "gpa": 5.4,
-              "type": "target",
-              "addedAt": 1784105305863
-            },
-            {
-              "gpa": 10,
-              "type": "target",
-              "addedAt": 1784105349041
-            }
-          ]
+          "applicants": []
         },
         {
           "specialty": "5-04-0715-20 Техническая эксплуатация подъёмно-транспортных, дорожно-строительных машин и оборудования",
